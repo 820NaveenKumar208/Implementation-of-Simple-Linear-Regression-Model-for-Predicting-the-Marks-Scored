@@ -11,9 +11,12 @@ To write a program to predict the marks scored by a student using the simple lin
 1. To implement the linear regression using the standard libraries in the python.
   
 2. Use slicing function() for the x,y values.
+   
 3.Using sklearn library import training , testing and linear regression modules.
+
 4.Predict the value for the y.
 Using matplotlib library plot the graphs.
+
 5.Use xlabel for hours and ylabel for scores.
 End the porgram
 
