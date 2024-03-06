@@ -60,7 +60,7 @@ plt.title("h vs s (Testing Set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
-
+```
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
 ![174649788-7139e2ec-d53e-4c15-ad55-c696a6a4a0e4](https://github.com/820NaveenKumar208/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/154746066/9b437ff4-2941-4616-aaf8-602de9416052)
