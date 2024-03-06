@@ -20,7 +20,7 @@ End the porgram
 
 
 ## Program:
-```
+
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Nithya shree
@@ -64,7 +64,7 @@ plt.show()
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
 ![174649788-7139e2ec-d53e-4c15-ad55-c696a6a4a0e4](https://github.com/820NaveenKumar208/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/154746066/9b437ff4-2941-4616-aaf8-602de9416052)
-![174649788-7139e2ec-d53e-4c15-ad55-c696a6a4a0e4](https://github.com/820NaveenKumar208/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/154746066/e75b08ed-44c9-411c-adf4-22d11bd7223b)
+![174649788-7139e2ec-d53e-4c15-ad55-c696a6a4a0e4](https://github.com/820NaveenKumar208/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/154746066/e75b08ed-44c9-411c-adf4-22d11bd7223b)```
 
 
 ## Result:
